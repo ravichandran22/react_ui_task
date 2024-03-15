@@ -1,0 +1,73 @@
+.home-container{
+    background-color: #F8F8F8;
+    padding: 40px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+}
+.car-img{
+    max-width: 100%;
+    height: auto;
+    max-height: 250px;
+    border-radius: 20px;
+}
+.car-logo {
+    width: 100px;
+    height: auto;
+  }
+.vehicle-info-container{
+    text-align: left;
+    padding-top: 20px;
+}
+.vehicle-info{
+    background-color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.condition{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+.images{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left; 
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.Rental-Info{
+    display: flex;
+    align-items: center;   
+}
+form{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+    .right-side-column{
+        padding-top: 10px;
+    }
+    .card{
+        margin-top: 10px;
+    }
+    .column-3{
+        margin-top: 10px;
+    }
+    .column-4{
+        margin-top: 10px;
+    }
+    .Repair-column{
+        margin-top: 10px;
+    }
+}
