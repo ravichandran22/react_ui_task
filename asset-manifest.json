@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_ui_task/static/css/main.3980857a.css",
+    "main.js": "/react_ui_task/static/js/main.0145f4b5.js",
+    "static/media/Hyundai-Grand.jpg": "/react_ui_task/static/media/Hyundai-Grand.a9849f9625c132486860.jpg",
+    "index.html": "/react_ui_task/index.html",
+    "main.3980857a.css.map": "/react_ui_task/static/css/main.3980857a.css.map",
+    "main.0145f4b5.js.map": "/react_ui_task/static/js/main.0145f4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3980857a.css",
+    "static/js/main.0145f4b5.js"
+  ]
+}
